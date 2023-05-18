@@ -1,0 +1,55 @@
+﻿#myfavcolor {
+    background-color: #5890b0
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+    margin-top: 50px
+}
+
+th {
+    border: 1px solid black
+}
+
+td {
+    text-align: center
+}
+
+img {
+    height: 200px;
+    width: 300px
+}
+.sh1 {
+    text-align: center;
+    color: white;
+}
+
+.red {
+    color: red;
+}
+
+div {
+    background-color: white;
+    position: relative;
+}
+
+ul {
+    border: 1px solid black;
+}
+
+p {
+    display: inline;
+}
+h1 {
+    text-align: center;
+    color: white
+}
+
+.white {
+    color: white;
+}
+
+.im {
+    height: 240px;
+}

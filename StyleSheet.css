@@ -1,0 +1,48 @@
+﻿
+#myFavColor {
+    background-color: #5890b0;
+}
+
+img {
+    width: 150px;
+    height: 255px;
+}
+
+.maindiv {
+    border: 1px solid black;
+    float: left;
+}
+
+div h3 a {
+    text-decoration: none;
+}
+
+div p a {
+    text-decoration: none;
+}
+
+div div {
+    float: left;
+}
+
+.firstdiv {
+    width: 25%
+}
+
+.secondediv {
+    width: 65%;
+}
+
+.thirddiv {
+    width: 10%;
+}
+.tb {
+    border-collapse: collapse;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.ts {
+    border: 1px solid black;
+    text-align: center;
+}
